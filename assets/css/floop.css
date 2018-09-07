@@ -280,7 +280,7 @@ display: flex;
   min-height: 100%;
   background-size: cover;
   background-position: center center;
-  background-image: url('../img/continuous-improvement-mold.jpeg');
+  background-image: url('../img/forward-loop-iot.jpeg');
   filter: grayscale(0.95) brightness(0.3) contrast(0.9);
 }
 .banner-heading-txt{
