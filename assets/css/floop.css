@@ -617,3 +617,31 @@ ul.developer-product-ul li{
   text-align: center;
   position: absolute;}
 }
+
+.icon-list {
+   display: table;
+   margin: 0 auto;
+}
+
+ul.icon-list li {
+    font-size: 20px;
+    font-weight: bold;
+    list-style: none;
+    padding-bottom: 18px;
+}
+
+.icon-list-img {
+    width: 50px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.icon-list-sub {
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 16px;
+    font-weight: normal;
+}
